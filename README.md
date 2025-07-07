@@ -5,7 +5,7 @@ I'm an ethical hacker and a software developer with experience in various progra
 ## 🧑‍💻 Programming Languages I Use:
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) **HTML5**: Frontend development for websites.
-- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) **CSS3**: Styling and layout for websites.
+- ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) **CSS3**: Styling and layout for websites.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) **JavaScript**: Web applications and Node.js backend development.
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) **Python**: Tool development, automation, and security.
 - ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) **Java**: Minecraft modding.
