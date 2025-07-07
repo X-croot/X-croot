@@ -15,6 +15,8 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" alt="Ruby" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua" alt="Lua" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly" alt="Assembly" style="margin: 5px;">
+
 </div>
 
 ---
@@ -36,6 +38,7 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Code%20OSS-black?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Code OSS" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-GCC-black?style=flat-square&logo=gcc" alt="GCC" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-QEMU-black?style=flat-square&logo=qemu" alt="QEMU" style="margin: 5px;">
 
 </div>
 
