@@ -34,6 +34,8 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=androidstudio" alt="Android Studio" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx" alt="Nginx" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Code%20OSS-black?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Code OSS" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-GCC-black?style=flat-square&logo=gcc" alt="GCC" style="margin: 5px;">
+
 </div>
 
 ## 📫 How to Reach Me:
