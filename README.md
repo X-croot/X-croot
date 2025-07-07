@@ -4,33 +4,36 @@ I'm an ethical hacker and a software developer with experience in various progra
 
 ## 🧑‍💻 Programming Languages I Use:
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) **HTML5**: Frontend development for websites.
-- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css) **CSS**: Styling and layout for websites.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) **JavaScript**: Web applications and Node.js backend development.
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) **Python**: Tool development, automation, and security.
-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) **Java**: Minecraft modding.
-- ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) **C/C++**: Arduino projects and QT applications.
-- ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) **PHP**: Web development and server-side programming.
-- ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby) **Ruby**: Metasploit framework development.
-- ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua) **Lua**: Game development and scripting.
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin) **Kotlin**: Android app development.
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css" alt="CSS" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" alt="Ruby" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua" alt="Lua" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin" style="margin: 5px;">
+</div>
 
 ---
 
-![Developer GIF](https://giffiles.alphacoders.com/147/147504.gif)
+<img src="https://giffiles.alphacoders.com/147/147504.gif" alt="Developer GIF" style="width: 100%; height: auto;">
 
 ---
 
 ## 🔧 Technologies I Work With:
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) **Node.js**: Backend development with JavaScript.
-- ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) **Arduino**: Hardware projects and microcontroller applications.
-- ![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit) **Metasploit**: Security research and penetration testing.
-- ![QT](https://img.shields.io/badge/-QT-black?style=flat-square&logo=qt) **QT**: Developing desktop applications with C++.
-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) **React**: Frontend development.
-- ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=androidstudio) **Android Studio**: Android app development (using Kotlin).
-- ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx) **Nginx**: Web server deployment and configuration.
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino" alt="Arduino" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit" alt="Metasploit" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-QT-black?style=flat-square&logo=qt" alt="QT" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=androidstudio" alt="Android Studio" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx" alt="Nginx" style="margin: 5px;">
+</div>
 
 ## 📫 How to Reach Me:
 - Email: [unuvarcan111@gmail.com](mailto:unuvarcan111@gmail.com)
-
