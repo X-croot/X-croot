@@ -11,7 +11,7 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++" alt="C++" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus" alt="C++" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" alt="Ruby" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua" alt="Lua" style="margin: 5px;">
