@@ -15,7 +15,7 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" alt="Ruby" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua" alt="Lua" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly" alt="ASM" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=ASM" alt="ASM" style="margin: 5px;">
 
 </div>
 
