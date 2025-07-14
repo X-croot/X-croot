@@ -13,7 +13,7 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus" alt="C++" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go" alt="Go" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=white" alt="Go" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" alt="Ruby" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua" alt="Lua" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin" style="margin: 5px;">
