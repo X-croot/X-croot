@@ -1,4 +1,4 @@
-# I'm **X-croot** | **Can Ünüvar** 👋
+# I'm **X-croot** | **Can Ünüvar** 
 
 I'm an ethical hacker and a software developer with experience in various programming languages and technologies. Penetration testing, vulnerability research and software developing. Here's a list of the languages and technologies I work with:
 
