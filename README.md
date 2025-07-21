@@ -17,7 +17,8 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby" alt="Ruby" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua" alt="Lua" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" alt="Dart" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" style="margin: 5px;">
+
 
   
 
