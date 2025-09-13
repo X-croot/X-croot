@@ -25,7 +25,8 @@ I'm an ethical hacker and a software developer with experience in various progra
 
 ---
 
-<img src="[https://giffiles.alphacoders.com/147/147504.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycTZua2dkN256Y3o3NDFqYWhndzl2NWRxMnV4cm84Zms0ZzQyZHY2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlwF2vFb4y7bDnWvcO/giphy-downsized-large.gif)" alt="Developer GIF" style="width: 100%; height: auto;">
+
+<img src="[https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycTZua2dkN256Y3o3NDFqYWhndzl2NWRxMnV4cm84Zms0ZzQyZHY2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlwF2vFb4y7bDnWvcO/giphy-downsized-large.gif]" alt="Developer GIF" style="width: 100%; height: auto;">
 
 ---
 
