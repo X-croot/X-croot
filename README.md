@@ -26,7 +26,7 @@ I'm an ethical hacker and a software developer with experience in various progra
 ---
 
 
-<img src="[[https://i.imgur.com/PDVycLm.gif](https://i.imgur.com/PDVycLm.gif)]" alt="Developer GIF" style="width: 100%; height: auto;">
+<img src="[https://i.imgur.com/PDVycLm.gif]" alt="Developer GIF" style="width: 100%; height: auto;">
 
 ---
 
