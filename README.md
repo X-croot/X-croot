@@ -30,7 +30,8 @@ I'm an ethical hacker and a software developer with experience in various progra
 
 
 
-<img src="https://i.imgur.com/PDVycLm.gif" alt="Developer GIF" style="width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/67540cfa-63e8-4ef9-b4e5-d9b9ee51d918" alt="Developer GIF" style="width: 100%; height: auto;">
+
 
 
 
