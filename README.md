@@ -2,7 +2,7 @@
 
 I'm an ethical hacker and a software developer with experience in various programming languages and technologies. Penetration testing, vulnerability research and software developing. Here's a list of the languages and technologies I work with:
 
-## 🧑‍💻 Programming Languages I Use:
+## 💻 Programming Languages I Use:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" style="margin: 5px;">
@@ -32,7 +32,7 @@ I'm an ethical hacker and a software developer with experience in various progra
 
 ---
 
-## 🔧 Technologies I Work With:
+## 👾 Technologies I Work With:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" style="margin: 5px;">
@@ -50,5 +50,5 @@ I'm an ethical hacker and a software developer with experience in various progra
 
 </div>
 
-## 📫 How to Reach Me:
+## 👁️ How to Reach Me:
 - Email: [unuvarcan111@gmail.com](mailto:unuvarcan111@gmail.com)
