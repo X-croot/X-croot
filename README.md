@@ -2,9 +2,7 @@
 
 I'm an ethical hacker and a software developer with experience in various programming languages and technologies. Penetration testing, vulnerability research and software developing. Here's a list of the languages and technologies I work with:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-croot&layout=compact&theme=radical" height="150" />
-</p>
+
 
 ## 💻 Programming Languages I Use:
 
@@ -23,6 +21,7 @@ I'm an ethical hacker and a software developer with experience in various progra
   <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart" alt="Dart" style="margin: 5px;">
 
+
   
 
 </div>
@@ -32,6 +31,7 @@ I'm an ethical hacker and a software developer with experience in various progra
 
 
 <img src="https://i.imgur.com/PDVycLm.gif" alt="Developer GIF" style="width: 100%; height: auto;">
+
 
 
 
