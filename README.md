@@ -1,10 +1,8 @@
 # I'm **X-croot** | **Can Ünüvar** 
 
 I'm an ethical hacker and a software developer with experience in various programming languages and technologies. Penetration testing, vulnerability research and software developing. Here's a list of the languages and technologies I work with:
-## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=X-croot&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-croot&layout=compact&theme=radical" height="150" />
 </p>
 
