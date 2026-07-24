@@ -1,143 +1,80 @@
-<!-- ===== HEADER BANNER ===== -->
+<!-- =============== HEADER =============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=X-croot&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Software%20Developer&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=X-croot&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%E2%97%86%20Software%20Developer&descAlignY=60&descSize=18&descColor=e0e0e0" width="100%"/>
 </div>
 
-<!-- ===== TYPING ANIMATION ===== -->
+<!-- =============== TYPING =============== -->
 <div align="center">
-  <a href="https://github.com/X-croot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Hi+there%2C+I'm+Can+%C3%9Cn%C3%BCvar+%F0%9F%91%8B;Ethical+Hacker+%7C+Penetration+Tester;Full-Stack+Software+Developer;Vulnerability+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Breaking%2C+Always+Building" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- ===== SOCIAL BADGES ===== -->
-<div align="center">
-  <a href="mailto:xcroot00@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  <a href="https://github.com/X-croot"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=X-croot&label=Profile%20Views&color=ff0055&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/X-croot?label=Followers&style=for-the-badge&color=ff00ff&labelColor=000" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=FFFFFF&center=true&vCenter=true&width=720&height=55&lines=Ethical+Hacker+%26+Penetration+Tester;Full-Stack+Software+Developer;Vulnerability+Researcher;%22Break+it+to+build+it+stronger.%22" alt="typing" />
 </div>
 
 <br/>
 
-<!-- ===== ABOUT ME ===== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<!-- =============== INTRO =============== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Hi%2C%20I%27m%20Can%20%C3%9Cn%C3%BCvar-000000?style=for-the-badge&labelColor=000000&color=ffffff" />
+</div>
+
+<br/>
+
+<!-- =============== ABOUT =============== -->
+## <img src="https://img.shields.io/badge/-01-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; About
 
 ```yaml
-name: Can Ünüvar
-alias: X-croot
-role: Ethical Hacker & Software Developer
-focus:
-  - 🔐 Penetration Testing
-  - 🕵️ Vulnerability Research
-  - 💻 Full-Stack Development
-  - ⚙️ Low-Level & Systems Programming
-motto: "Break it to build it stronger."
-contact: xcroot00@proton.me
+name    : Can Ünüvar
+alias   : X-croot
+role    : Ethical Hacker & Software Developer
+focus   :
+  - Penetration Testing
+  - Vulnerability Research
+  - Full-Stack Development
+  - Systems & Low-Level Programming
+contact : xcroot00@proton.me
 ```
 
-<!-- ===== FEATURED GIF ===== -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/67540cfa-63e8-4ef9-b4e5-d9b9ee51d918" 
-       alt="Developer GIF" 
-       width="600" 
-       style="border-radius: 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.7);">
-</div>
-
 <br/>
 
-<!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Arsenal
+<!-- =============== TECH STACK =============== -->
+## <img src="https://img.shields.io/badge/-02-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,ts,python,java,c,cpp,cs,go,rust,ruby,swift,kotlin,dart,lua,bash,perl&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,python,java,c,cpp,cs,go,rust,ruby,swift,kotlin,dart,lua,bash,perl,nodejs,react,django,flask,spring,flutter,qt,arduino,docker,git,github,linux,nginx,apache,postgres,mysql,mongodb,redis&perline=12&theme=dark" />
 </p>
 
-### 🚀 Frameworks & Runtimes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,django,flask,spring,flutter,qt,arduino,androidstudio&perline=9" />
-</p>
-
-### 🗄️ Databases & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,nginx,apache,git,github&perline=10" />
-</p>
-
-### 🔐 Security & Offensive Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004466?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=ffffff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ffffff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=ffffff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ffffff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=ffffff&labelColor=000000"/>
 </p>
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Analytics
-
+<!-- =============== QUOTE =============== -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=X-croot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0055&icon_color=ff00ff&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=X-croot&theme=radical&hide_border=true&background=0D1117&stroke=ff00ff&ring=ff0055&fire=ff00ff&currStreakLabel=ff0055" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-croot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0055&text_color=ffffff&langs_count=10" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%22Security+is+not+a+product%2C+but+a+process.%22;%22Code+is+poetry%2C+exploits+are+haiku.%22" alt="quote" />
 </div>
 
 <br/>
 
-<!-- ===== TROPHIES ===== -->
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=X-croot&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</div>
-
-<br/>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-croot&theme=react-dark&bg_color=0D1117&color=ff0055&line=ff00ff&point=ffffff&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ===== SNAKE ANIMATION ===== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/X-croot/X-croot/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br/>
-
-<!-- ===== QUOTE ===== -->
-## 💭 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br/>
-
-<!-- ===== CONTACT ===== -->
-## 📬 Let's Connect
+<!-- =============== CONTACT =============== -->
+## <img src="https://img.shields.io/badge/-03-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Contact
 
 <div align="center">
   <a href="mailto:xcroot00@proton.me">
-    <img src="https://img.shields.io/badge/Get_In_Touch-xcroot00@proton.me-ff0055?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" alt="Email" height="45"/>
+    <img src="https://img.shields.io/badge/xcroot00@proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=ffffff&labelColor=000000" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/X-croot">
+    <img src="https://img.shields.io/badge/@X--croot-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" height="42"/>
   </a>
 </div>
 
 <br/>
 
-<!-- ===== FOOTER ===== -->
+<!-- =============== FOOTER =============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer&text=stay%20curious.&fontSize=18&fontColor=ffffff&fontAlignY=75" width="100%"/>
 </div>
