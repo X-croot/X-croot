@@ -59,7 +59,7 @@ contact : xcroot00@proton.me
 <br/>
 
 <!-- =============== CRYPTO DONATIONS =============== -->
-## <img src="https://img.shields.io/badge/-02-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Crypto Donations
+## <img src="https://img.shields.io/badge/-03-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Crypto Donations
 
 <div align="center">
 
@@ -105,7 +105,7 @@ contact : xcroot00@proton.me
 <br/>
 
 <!-- =============== CONTACT =============== -->
-## <img src="https://img.shields.io/badge/-03-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Contact
+## <img src="https://img.shields.io/badge/-04-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Contact
 
 <div align="center">
   <a href="mailto:xcroot00@proton.me">
