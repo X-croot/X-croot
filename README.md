@@ -32,7 +32,6 @@ focus   :
 contact : xcroot00@proton.me
 ```
 
-<br/>
 
 <!-- =============== TECH STACK =============== -->
 ## <img src="https://img.shields.io/badge/-02-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Tech Stack
@@ -55,6 +54,52 @@ contact : xcroot00@proton.me
 <!-- =============== QUOTE =============== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%22Security+is+not+a+product%2C+but+a+process.%22;%22Code+is+poetry%2C+exploits+are+haiku.%22" alt="quote" />
+</div>
+
+<br/>
+
+<!-- =============== CRYPTO DONATIONS =============== -->
+## <img src="https://img.shields.io/badge/-02-000000?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; Crypto Donations
+
+<div align="center">
+
+  <sub>Support my open-source work with a voluntary donation.</sub>
+
+  <table>
+    <tr>
+      <td width="105" align="left">
+        <img src="https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+      </td>
+      <td align="left"><code>14YMNvcBkZLa44SB356C9bWo15ubmQ9vUG</code></td>
+    </tr>
+    <tr>
+      <td width="105" align="left">
+        <img src="https://img.shields.io/badge/ETH-627EEA?style=flat-square&logo=ethereum&logoColor=white"/>
+      </td>
+      <td align="left"><code>0x5bce5c989c97a1503bba131ba882245e56d89b43</code></td>
+    </tr>
+    <tr>
+      <td width="105" align="left">
+        <img src="https://img.shields.io/badge/MATIC-8247E5?style=flat-square&logo=polygon&logoColor=white"/>
+      </td>
+      <td align="left"><code>0x5bce5c989c97a1503bba131ba882245e56d89b43</code></td>
+    </tr>
+    <tr>
+      <td width="105" align="left">
+        <img src="https://img.shields.io/badge/SOL-14F195?style=flat-square&logo=solana&logoColor=black"/>
+      </td>
+      <td align="left"><code>7WmMDVAxQG2zGaGqmScsPY9cCe3wjC24EDstCLGUE7tn</code></td>
+    </tr>
+    <tr>
+      <td width="105" align="left">
+        <img src="https://img.shields.io/badge/XMR-FF6600?style=flat-square&logo=monero&logoColor=white"/>
+      </td>
+      <td align="left"><code>464rZvpkpp53aMZy7XLYxYeu7KchedtE1498fC78d9VKYK65tmTiFtV8kv4u2gST342WPhfAMTX2bWNcWz8UEtvgAX7qfVd</code></td>
+    </tr>
+  </table>
+
+  <sub>All donations are voluntary. Thank you for supporting my work!</sub>
+
 </div>
 
 <br/>
